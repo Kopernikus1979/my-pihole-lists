@@ -1,2 +1,4 @@
-10.10.100.40	pihole.kopernikus-networks.be
-10.10.100.41	pihole2.kopernikus-networks.be
+10.10.100.30    unifi.kopernikus-networks.be unifi
+10.10.50.40		pihole.kopernikus-networks.be pihole
+10.10.50.41		pihole2.kopernikus-networks.be pihole2
+10.10.50.50		nas.kopernikus-networks.be unifinetwork.kopernikus-networks.be unifiprotect.kopernikus-networks.be vpn.kopernikus-networks.be plex.kopernikus-networks.be plexwebtools.kopernikus-networks.be tautulli.kopernikus-networks.be ubooquity.kopernikus-networks.be ubooquityconfig.kopernikus-networks.be deluge.kopernikus-networks.be kopernikus-nas.synology.me
