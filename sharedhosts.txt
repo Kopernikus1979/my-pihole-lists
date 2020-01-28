@@ -1,9 +1,17 @@
-10.10.30.20     shieldtvwoonkamer.kopernikus-vlan30.local
-10.10.30.21	shieldtvslaapkamer.kopernikus-vlan30.local
-10.10.30.30	samsungtvwoonkamer.kopernikus-vlan30.local
-10.10.30.31	samsungtvslaapkamer.kopernikus-vlan30.local
-10.10.30.32	samsungtvkamermats.kopernikus-vlan30.local
+10.10.1.1	gateway.Kopernikus-Native.local
+10.10.10.1	gateway.Kopernikus-Trusted.local
+10.10.20.1	gateway.Kopernikus-Kids.local
+10.10.30.1	gateway.Kopernikus-IoT.local
+10.10.30.20	shieldtvwoonkamer.Kopernikus-IoT.local
+10.10.30.21	shieldtvslaapkamer.Kopernikus-IoT.local
+10.10.30.30	samsungtvwoonkamer.Kopernikus-IoT.local
+10.10.30.31	samsungtvslaapkamer.Kopernikus-IoT.local
+10.10.30.32	samsungtvkamermats.kopernikus-IoT.local
+10.10.40.1	gateway.Kopernikus-Surveillance.local
+10.10.50.1	gateway.Kopernikus-Servers.local
 10.10.50.40	pihole.kopernikus-networks.be pihole
 10.10.50.41	pihole2.kopernikus-networks.be pihole2
-10.10.50.50	nas.kopernikus-networks.be unifinetwork.kopernikus-networks.be unifiprotect.kopernikus-networks.be vpn.kopernikus-networks.be plex.kopernikus-networks.be plexwebtools.kopernikus-networks.be tautulli.kopernikus-networks.be ubooquity.kopernikus-networks.be ubooquityconfig.kopernikus-networks.be deluge.kopernikus-networks.be kopernikus-nas.synology.me
+10.10.50.50	nas.kopernikus-networks.be KOPERNIKUS-NAS unifinetwork.kopernikus-networks.be unifiprotect.kopernikus-networks.be vpn.kopernikus-networks.be plex.kopernikus-networks.be plexwebtools.kopernikus-networks.be tautulli.kopernikus-networks.be ubooquity.kopernikus-networks.be ubooquityconfig.kopernikus-networks.be deluge.kopernikus-networks.be kopernikus-nas.synology.me
+10.10.90.1	gateway.Kopernikus-Guests.local
+10.10.100.1	gateway.Kopernikus-Management.local
 10.10.100.30    unifi.kopernikus-networks.be unifi
