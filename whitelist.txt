@@ -164,6 +164,7 @@ thetvdb.com
 tinyurl.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
+tracking.epicgames.com
 traffic.libsyn.com
 tvdb2.plex.tv
 tvthemes.plexapp.com
@@ -192,4 +193,3 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube-nocookie.com
 yt3.ggpht.com
-tracking.epicgames.com
